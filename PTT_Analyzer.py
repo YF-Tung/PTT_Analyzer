@@ -19,7 +19,7 @@ c = con.cursor()
 #       dict:
 #	    key (string): author
 #	    value (int): count
-#       list: TF, then TF*IDF
+#       dict: TF, then TF*IDF (autIdx to float)
 #       int: articleNumber
 boardDict = {}
 
@@ -30,7 +30,7 @@ if __limit__ > 0: selectSql += " LIMIT " + str(__limit__)
 for row in c.execute(selectSql):
     board = row[1]
     author = row[2]
-    lst = boardDict.setdefault(board, [{}, [], 0])
+    lst = boardDict.setdefault(board, [{}, {}, 0])
     lst[0][author] = lst[0].get(author, 0) + 1
     authorSet.add(author)
     lst[2] += 1
@@ -44,7 +44,10 @@ for brd in boardDict:
     TF = boardDict[brd][1]
     artNum = boardDict[brd][2]
     for i in range(authorNum):
-        TF.append( float(dic.get(authorList[i], 0)) / artNum )
+        if authorList[i] in dic:
+            TF[i] = TF.get(i, 0) + 1
+#            TF.append( float(dic.get(authorList[i], 0)) / artNum )
+
 
 #IDF
 IDF = []
@@ -58,13 +61,17 @@ for aut in authorList:
 
 #TF -> TF*IDF
 for tpl in boardDict.values():
-    TF = tpl[1]
-    result = TF
-    for i in range(len(result)):
-        result[i] *= IDF[i]
-    nrm = numpy.linalg.norm(result)
-    result = [ x / nrm for x in result ]
-    tpl[1] = result
+    for i in tpl[1]:
+        tpl[1][i] *= IDF[i]
+#    TF = tpl[1]
+#    result = TF
+#    for i in range(len(result)):
+#        result[i] *= IDF[i]
+    nrm = numpy.linalg.norm(list(tpl[1].values()))
+#    result = [ x / nrm for x in result ]
+#    tpl[1] = result
+    for i in tpl[1]:
+        tpl[1][i] /= nrm
 
 
 # Example: 'travel' to others
@@ -77,7 +84,11 @@ for brdBase in boardDict:
     myDic = {} #board to cosine
     for brd in boardDict:
         if brd == brdBase: continue
-        myDic[brd] = numpy.dot(boardDict[brd][1], boardDict[brdBase][1])
+#        myDic[brd] = numpy.dot(boardDict[brd][1], boardDict[brdBase][1])
+        myDic[brd] = 0
+        for i in boardDict[brd][1]:
+            if i in boardDict[brdBase][1]:
+                myDic[brd] += boardDict[brd][1][i] * boardDict[brdBase][1][i]
 
     myList = []
     for k,v in myDic.items():
