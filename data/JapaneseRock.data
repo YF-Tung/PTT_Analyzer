@@ -1,4 +1,4 @@
-board	degree	nordegree
-PostRock	1	0.998086734694
-Brit-pop	1	0.997450605481
-NTU	1	0.85989010989
+board	similarity
+Brit-pop	0.668730241486
+PostRock	0.500340812711
+NTU	0.0727445735862

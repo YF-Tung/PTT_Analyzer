@@ -1,5 +1,5 @@
-board	degree	nordegree
-dog	1	0.932657926103
-Drama-Ticket	1	0.821953781513
-Tainan	1	0.722196585141
-forsale	1	0.360516010136
+board	similarity
+dog	0.0182007347797
+Tainan	0.00723815843025
+Drama-Ticket	0.00711649023122
+forsale	0.00400651207039

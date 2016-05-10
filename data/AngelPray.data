@@ -1,4 +1,4 @@
-board	degree	nordegree
-chicken	1	0.989254108723
-PttEarnMoney	1	0.85989010989
-Gossiping	1	0.240695170717
+board	similarity
+chicken	0.224441511442
+PttEarnMoney	0.0440008432759
+Gossiping	0.00566046228122

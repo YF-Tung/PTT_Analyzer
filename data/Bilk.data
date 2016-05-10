@@ -1,4 +1,4 @@
-board	degree	nordegree
-Bunco	1	0.998086734694
-e-shopping	1	0.908299477655
-BabyMother	1	0.834221748401
+board	similarity
+Bunco	0.500340812711
+e-shopping	0.0523570073566
+BabyMother	0.0334537910402

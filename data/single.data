@@ -1,7 +1,7 @@
-board	degree	nordegree
-YuBeauty	1	0.996815286624
-GreysAnatomy	1	0.996815286624
-Insurance	1	0.968440594059
-Bank_Service	1	0.957186544343
-talk	1	0.845032397408
-movie	1	0.676610462603
+board	similarity
+YuBeauty	0.328408367368
+GreysAnatomy	0.156060181373
+talk	0.0582826727016
+Bank_Service	0.0434299952451
+Insurance	0.0269551862566
+movie	0.0112188304185

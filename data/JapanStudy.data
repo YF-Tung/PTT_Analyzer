@@ -1,7 +1,7 @@
-board	degree	nordegree
-translator	1	0.997450605481
-Japan_Living	1	0.995547073791
-Boy-Girl	1	0.85332606325
-Japan_Travel	1	0.798469387755
-WomenTalk	1	0.541897506925
-Gossiping	2	0.481390341433
+board	similarity
+Japan_Living	0.0487181545437
+translator	0.0437780220691
+Boy-Girl	0.0112784849523
+Japan_Travel	0.00841098130893
+WomenTalk	0.00606954286532
+Gossiping	0.00258662512152

@@ -1,5 +1,5 @@
-board	degree	nordegree
-Eng-Class	1	0.97507788162
-talk	1	0.845032397408
-MenTalk	1	0.773221343874
-Gossiping	1	0.240695170717
+board	similarity
+talk	0.0376259653977
+Eng-Class	0.0355940891517
+MenTalk	0.0197645805662
+Gossiping	0.00413531845506

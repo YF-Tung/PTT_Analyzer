@@ -1,5 +1,5 @@
-board	degree	nordegree
-Phillies	2	1.99109414758
-MLB	2	1.81765389082
-Baseball	2	1.13078034682
-FBaseball	1	0.981806775408
+board	similarity
+Phillies	0.486655932993
+FBaseball	0.166636841807
+MLB	0.124747228646
+Baseball	0.0315733069648

@@ -1,4 +1,4 @@
-board	degree	nordegree
-DYU	1	0.999361430396
-Jeans	1	0.993020304569
-Gamesale	1	0.789606458123
+board	similarity
+DYU	0.226374254858
+Jeans	0.168444720654
+Gamesale	0.0140789665734

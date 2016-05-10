@@ -1,5 +1,5 @@
-board	degree	nordegree
-CourtGeneral	1	0.997450605481
-Aikido	1	0.997450605481
-SYSOP	1	0.986759142497
-Test	1	0.775520317146
+board	similarity
+CourtGeneral	1.0
+Aikido	1.0
+SYSOP	0.277467536335
+Test	0.0449271544176

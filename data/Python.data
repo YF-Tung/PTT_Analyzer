@@ -1,4 +1,4 @@
-board	degree	nordegree
-Linux	1	0.993020304569
-OverWatch	1	0.954850518609
-joke	1	0.786432160804
+board	similarity
+Linux	0.0577156916802
+OverWatch	0.0254737876965
+joke	0.0120230386362

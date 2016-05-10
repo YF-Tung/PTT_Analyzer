@@ -1,4 +1,4 @@
-board	degree	nordegree
-Jolin	1	0.988629185092
-WesternMusic	1	0.98738170347
-Eng-Class	1	0.97507788162
+board	similarity
+Jolin	0.163623140714
+WesternMusic	0.0714095842679
+Eng-Class	0.0635093008582

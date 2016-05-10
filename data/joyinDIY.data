@@ -1,5 +1,5 @@
-board	degree	nordegree
-KoreaStudy	1	0.9861373661
-Aromatherapy	1	0.9861373661
-toberich	1	0.93824940048
-WomenTalk	1	0.541897506925
+board	similarity
+KoreaStudy	0.118252141174
+Aromatherapy	0.073148748349
+toberich	0.0428983209873
+WomenTalk	0.0119246035563

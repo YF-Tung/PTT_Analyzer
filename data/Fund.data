@@ -1,7 +1,7 @@
-board	degree	nordegree
-Insurance	2	1.93688118812
-CFP	1	0.988629185092
-ForeignEX	1	0.979349186483
-Bank_Service	1	0.957186544343
-home-sale	1	0.882684715172
-Japan_Travel	1	0.798469387755
+board	similarity
+CFP	0.0811514416035
+ForeignEX	0.0608279564569
+Insurance	0.0546169297494
+Bank_Service	0.0377647006937
+home-sale	0.0203449920404
+Japan_Travel	0.0121990812211

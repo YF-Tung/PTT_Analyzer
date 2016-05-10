@@ -1,4 +1,4 @@
-board	degree	nordegree
-Wen-Shan	1	0.97507788162
-HsinTien	1	0.957186544343
-Hunter	1	0.937125748503
+board	similarity
+Wen-Shan	0.0687987750621
+Hunter	0.0533536630799
+HsinTien	0.0475951060527

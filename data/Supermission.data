@@ -1,5 +1,5 @@
-board	degree	nordegree
-Neihu	1	0.912004662005
-Drama-Ticket	1	0.821953781513
-TaichungBun	1	0.738555922605
-Gossiping	1	0.240695170717
+board	similarity
+Neihu	0.0257676579003
+TaichungBun	0.00984084397684
+Drama-Ticket	0.0094582357146
+Gossiping	0.00347041929607

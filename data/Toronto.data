@@ -1,6 +1,6 @@
-board	degree	nordegree
-Canada	2	1.9835234474
-NorthAmerica	1	0.990506329114
-NewYork	1	0.982423101067
-WorkanTravel	1	0.966049382716
-Tour-Agency	1	0.962484624846
+board	similarity
+Canada	0.347785807075
+NorthAmerica	0.157004584877
+NewYork	0.0898638612609
+WorkanTravel	0.0677292066591
+Tour-Agency	0.0481792502899

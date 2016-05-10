@@ -1,4 +1,4 @@
-board	degree	nordegree
-WOW	1	0.961302211302
-PlayStation	1	0.872838817624
-WomenTalk	1	0.541897506925
+board	similarity
+WOW	0.0286960873832
+PlayStation	0.0159196071343
+WomenTalk	0.00682365650525

@@ -1,4 +1,4 @@
-board	degree	nordegree
-UCH	1	0.994282083863
-barterbooks	1	0.885681946802
-Hsinchu	1	0.832004253057
+board	similarity
+UCH	0.468086653439
+barterbooks	0.0405535830502
+Hsinchu	0.0273820224294

@@ -1,6 +1,6 @@
-board	degree	nordegree
-Drama-Ticket	2	1.64390756303
-Car-rent	1	0.991133628879
-points	1	0.959534028204
-BabyMother	1	0.834221748401
-forsale	1	0.360516010136
+board	similarity
+Car-rent	0.0399703994803
+Drama-Ticket	0.0188502550634
+points	0.0181316188789
+BabyMother	0.00784516195638
+forsale	0.00530625153606

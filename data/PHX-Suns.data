@@ -1,4 +1,4 @@
-board	degree	nordegree
-Monkeys	1	0.890722822994
-NBA	1	0.770935960591
-Baseball	1	0.56539017341
+board	similarity
+Monkeys	0.0701684167376
+NBA	0.0347961495536
+Baseball	0.0207256562285

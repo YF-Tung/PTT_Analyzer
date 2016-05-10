@@ -1,6 +1,6 @@
-board	degree	nordegree
-Touhou	1	0.996180776575
-PuzzleDragon	1	0.969040247678
-OverWatch	1	0.954850518609
-StupidClown	1	0.922759433962
-C_Chat	1	0.610612563402
+board	similarity
+Touhou	0.328408367368
+OverWatch	0.0832437182089
+PuzzleDragon	0.0687632220058
+StupidClown	0.0592429221901
+C_Chat	0.0314339683133

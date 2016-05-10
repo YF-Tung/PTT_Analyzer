@@ -1,5 +1,5 @@
-board	degree	nordegree
-IME	1	0.999361430396
-historia	1	0.942203491872
-PublicIssue	1	0.941070354781
-Gossiping	1	0.240695170717
+board	similarity
+IME	0.326914426232
+historia	0.0722336312129
+PublicIssue	0.0674864966387
+Gossiping	0.00521623411978

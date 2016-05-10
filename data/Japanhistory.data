@@ -1,5 +1,5 @@
-board	degree	nordegree
-Zombie	1	0.989879822897
-mobile-game	1	0.978125
-MenTalk	1	0.773221343874
-movie	1	0.676610462603
+board	similarity
+Zombie	0.203666845019
+mobile-game	0.0776760255066
+MenTalk	0.0420475716264
+movie	0.0218057607386

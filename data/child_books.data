@@ -1,4 +1,4 @@
-board	degree	nordegree
-TY_Research	2	1.88895594448
-gardener	1	0.993650793651
-e-shopping	1	0.908299477655
+board	similarity
+TY_Research	0.136483743345
+gardener	0.126025924333
+e-shopping	0.0261963476119

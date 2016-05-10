@@ -1,4 +1,4 @@
-board	degree	nordegree
-StupidClown	1	0.922759433962
-LoL	1	0.64749689698
-Wanted	1	0.495253164557
+board	similarity
+StupidClown	0.0271652311669
+LoL	0.0105430408323
+Wanted	0.00638568937662

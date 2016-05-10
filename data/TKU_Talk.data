@@ -1,6 +1,6 @@
-board	degree	nordegree
-NBAJerseys	1	0.992390615092
-RedSox	1	0.989879822897
-TamShui	1	0.9861373661
-Rent_apart	1	0.958358848745
-part-time	1	0.858946212953
+board	similarity
+RedSox	0.0919144282022
+NBAJerseys	0.0609058042549
+TamShui	0.0510007498581
+Rent_apart	0.0239881034732
+part-time	0.00978837978539

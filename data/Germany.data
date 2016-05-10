@@ -1,7 +1,7 @@
-board	degree	nordegree
-Holland	2	1.98478123018
-gallantry	1	0.970241785493
-BigBanciao	1	0.908299477655
-Militarylife	1	0.881690140845
-BabyMother	1	0.834221748401
-Gossiping	1	0.240695170717
+board	similarity
+Holland	0.149051518857
+gallantry	0.0668036108523
+BigBanciao	0.0238063091484
+Militarylife	0.022235874894
+BabyMother	0.0112838789532
+Gossiping	0.00325524406007

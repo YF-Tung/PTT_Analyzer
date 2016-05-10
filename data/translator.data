@@ -1,5 +1,5 @@
-board	degree	nordegree
-JapanStudy	1	0.995547073791
-Sewing	1	0.993650793651
-KanColle	1	0.937687237867
-Gossiping	1	0.240695170717
+board	similarity
+Sewing	0.0908012246293
+JapanStudy	0.0437780220691
+KanColle	0.0123671826346
+Gossiping	0.00263753137223

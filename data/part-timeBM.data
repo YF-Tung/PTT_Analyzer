@@ -1,4 +1,4 @@
-board	degree	nordegree
-part-time	3	2.57683863886
-NIU_Talk	1	0.999361430396
-job	1	0.937687237867
+board	similarity
+NIU_Talk	0.507294013352
+part-time	0.0510081411387
+job	0.027667762099

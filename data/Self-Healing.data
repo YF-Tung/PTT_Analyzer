@@ -1,4 +1,4 @@
-board	degree	nordegree
-Lucky	1	0.996180776575
-hairdo	1	0.958946078431
-Diary	1	0.873813512004
+board	similarity
+Lucky	0.197690895858
+hairdo	0.050373168118
+Diary	0.0407159753637

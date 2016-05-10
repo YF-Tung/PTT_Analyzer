@@ -1,5 +1,5 @@
-board	degree	nordegree
-fashion	1	0.992390615092
-Actuary	1	0.986759142497
-shoes	1	0.973864343497
-GetMarry	1	0.925487876996
+board	similarity
+fashion	0.116950924227
+Actuary	0.0652669135944
+shoes	0.0350108538685
+GetMarry	0.018108645185

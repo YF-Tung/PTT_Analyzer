@@ -1,4 +1,4 @@
-board	degree	nordegree
-KoreaStar	1	0.963669950739
-KR_Entertain	1	0.960122699387
-KoreanPop	1	0.93544530783
+board	similarity
+KR_Entertain	0.0646512806185
+KoreaStar	0.0615174109265
+KoreanPop	0.0570075232465

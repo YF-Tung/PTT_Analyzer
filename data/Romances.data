@@ -1,7 +1,7 @@
-board	degree	nordegree
-FengYuan	1	0.9861373661
-HsinChuang	1	0.913601868068
-BuyTogether	1	0.827604442094
-Drama-Ticket	1	0.821953781513
-C_Chat	1	0.610612563402
-forsale	1	0.360516010136
+board	similarity
+FengYuan	0.0476078431189
+HsinChuang	0.0193512202864
+BuyTogether	0.00981089740667
+C_Chat	0.0094115041883
+Drama-Ticket	0.00805902400516
+forsale	0.00453714905848

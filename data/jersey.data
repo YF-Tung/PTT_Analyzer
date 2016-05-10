@@ -1,5 +1,5 @@
-board	degree	nordegree
-SportsShop	1	0.921130076516
-BikerShop	1	0.914135514019
-Taoyuan	1	0.845032397408
-forsale	2	0.721032020272
+board	similarity
+SportsShop	0.0347045947703
+BikerShop	0.0318277374552
+Taoyuan	0.0270285495645
+forsale	0.0169982600036

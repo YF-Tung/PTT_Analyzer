@@ -1,4 +1,4 @@
-board	degree	nordegree
-RO	1	0.98738170347
-movie	1	0.676610462603
-C_Chat	1	0.610612563402
+board	similarity
+RO	0.113031352703
+movie	0.0365520251772
+C_Chat	0.0336339044177

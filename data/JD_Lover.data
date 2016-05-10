@@ -1,4 +1,4 @@
-board	degree	nordegree
-NailSalon	1	0.985516372796
-Sagittarius	1	0.974470734745
-Boy-Girl	1	0.85332606325
+board	similarity
+Sagittarius	0.113828423567
+NailSalon	0.0880496873685
+Boy-Girl	0.0330453928833

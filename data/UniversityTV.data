@@ -1,7 +1,7 @@
-board	degree	nordegree
-TW_Entertain	1	0.978125
-L_TalkandCha	1	0.965453423812
-Gossiping	4	0.962780682867
-GossipPicket	1	0.941636582431
-Beauty	1	0.875279642058
-joke	1	0.786432160804
+board	similarity
+L_TalkandCha	0.136261154932
+TW_Entertain	0.132728107077
+GossipPicket	0.0941953931804
+Beauty	0.0351648342111
+joke	0.021635718557
+Gossiping	0.0154014768637

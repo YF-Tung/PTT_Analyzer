@@ -1,7 +1,7 @@
-board	degree	nordegree
-Immigration	1	0.994282083863
-Canada	1	0.991761723701
-Oversea_Job	1	0.98738170347
-Q_ary	1	0.977514053716
-studyabroad	1	0.97507788162
-C_Chat	1	0.610612563402
+board	similarity
+Canada	0.0652078605091
+Immigration	0.0362119194163
+Oversea_Job	0.0342625007449
+Q_ary	0.0260415323445
+studyabroad	0.0187845810327
+C_Chat	0.00641187399277

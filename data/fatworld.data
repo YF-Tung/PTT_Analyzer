@@ -1,5 +1,5 @@
-board	degree	nordegree
-ChangHua	1	0.91788856305
-Boy-Girl	1	0.85332606325
-Taoyuan	1	0.845032397408
-BuyTogether	1	0.827604442094
+board	similarity
+ChangHua	0.0287956798615
+Taoyuan	0.0215981902825
+Boy-Girl	0.0184251007143
+BuyTogether	0.0124188991449

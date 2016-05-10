@@ -1,7 +1,7 @@
-board	degree	nordegree
-Ladies_Digi	1	0.999361430396
-Storage_Zone	1	0.973258706468
-hardware	1	0.972049689441
-Old-Games	1	0.970241785493
-PC_Shopping	1	0.914135514019
-Hate	1	0.582217261905
+board	similarity
+Ladies_Digi	0.243242743002
+Old-Games	0.0461340157333
+hardware	0.041823855351
+Storage_Zone	0.0327558365543
+PC_Shopping	0.0151986016034
+Hate	0.00908601209035

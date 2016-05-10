@@ -1,5 +1,5 @@
-board	degree	nordegree
-the_L_word	1	0.996180776575
-YuanChuang	1	0.991133628879
-lesbian	1	0.964263709181
-equal_change	1	0.883681535855
+board	similarity
+the_L_word	0.0745959616032
+YuanChuang	0.0435712813558
+equal_change	0.0197297885776
+lesbian	0.0177245518292

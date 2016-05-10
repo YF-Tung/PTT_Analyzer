@@ -1,6 +1,6 @@
-board	degree	nordegree
-movie	2	1.35322092521
-C_Chat	2	1.2212251268
-AnimMovie	1	0.993650793651
-TimmyJohnny	1	0.992390615092
-LightNovel	1	0.989254108723
+board	similarity
+AnimMovie	0.253323382176
+LightNovel	0.0843312747834
+TimmyJohnny	0.0826677816245
+movie	0.030446426235
+C_Chat	0.0133728647755

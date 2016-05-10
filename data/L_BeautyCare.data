@@ -1,4 +1,4 @@
-board	degree	nordegree
-BeautySalon	1	0.933770883055
-iPhone	1	0.883681535855
-BeautyMarket	1	0.805870236869
+board	similarity
+BeautySalon	0.0736440517405
+iPhone	0.051615572278
+BeautyMarket	0.0489764805641

@@ -1,5 +1,5 @@
-board	degree	nordegree
-barterbooks	1	0.885681946802
-e-coupon	1	0.87675070028
-BabyProducts	1	0.800511508951
-forsale	1	0.360516010136
+board	similarity
+barterbooks	0.0142775304345
+e-coupon	0.0129818270452
+BabyProducts	0.00694973858197
+forsale	0.00407808079089

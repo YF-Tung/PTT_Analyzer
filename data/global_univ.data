@@ -1,6 +1,6 @@
-board	degree	nordegree
-Vancouver	1	0.998086734694
-Canada	1	0.991761723701
-studyabroad	1	0.97507788162
-WorkanTravel	1	0.966049382716
-BabyMother	1	0.834221748401
+board	similarity
+Vancouver	0.261336672816
+Canada	0.209333838233
+WorkanTravel	0.0756514603745
+studyabroad	0.0680777140163
+BabyMother	0.0253080404169

@@ -1,5 +1,5 @@
-board	degree	nordegree
-WuBai_and_CB	1	0.996180776575
-e-coupon	1	0.87675070028
-HelpBuy	1	0.699910554562
-forsale	1	0.360516010136
+board	similarity
+WuBai_and_CB	0.522683273476
+e-coupon	0.0561724980051
+HelpBuy	0.0248034561968
+forsale	0.0176458971679

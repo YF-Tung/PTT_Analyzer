@@ -1,5 +1,5 @@
-board	degree	nordegree
-TaiwanScript	1	0.998086734694
-Ourmovies	1	0.991761723701
-Indie-Film	1	0.991761723701
-Publish	1	0.989879822897
+board	similarity
+TaiwanScript	0.385529989413
+Ourmovies	0.215601026128
+Publish	0.164939193075
+Indie-Film	0.145369705605

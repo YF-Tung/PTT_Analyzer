@@ -1,6 +1,6 @@
-board	degree	nordegree
-Foreign_Inv	1	0.996180776575
-Storage_Zone	1	0.973258706468
-CATCH	1	0.965453423812
-Audiophile	1	0.964263709181
-Gossiping	2	0.481390341433
+board	similarity
+Foreign_Inv	0.0657154382966
+Storage_Zone	0.0314734306558
+Audiophile	0.0272329962885
+CATCH	0.0268146085652
+Gossiping	0.00549200328929

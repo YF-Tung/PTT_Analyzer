@@ -1,4 +1,4 @@
-board	degree	nordegree
-band	1	0.993020304569
-prozac	1	0.956017104459
-PingTung	1	0.937687237867
+board	similarity
+band	0.245152100657
+prozac	0.0540191432168
+PingTung	0.0395969118202

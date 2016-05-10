@@ -1,9 +1,9 @@
-board	degree	nordegree
-Baseball	4	2.26156069364
-Drama-Ticket	2	1.64390756303
-backQuarter	1	0.996180776575
-HanshinTiger	1	0.995547073791
-Fighters	1	0.995547073791
-Carps	1	0.995547073791
-BayStars	1	0.995547073791
-Marines	1	0.993650793651
+board	similarity
+HanshinTiger	0.430268835795
+BayStars	0.430268835795
+backQuarter	0.220463286261
+Marines	0.203624801207
+Fighters	0.196471827551
+Carps	0.196471827551
+Baseball	0.0676090042328
+Drama-Ticket	0.0281760817189

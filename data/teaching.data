@@ -1,5 +1,5 @@
-board	degree	nordegree
-Teacher	2	1.91906805641
-HomeTeach	1	0.973258706468
-LAW	1	0.969040247678
-part-time	1	0.858946212953
+board	similarity
+Teacher	0.0582338433773
+LAW	0.0499750006822
+HomeTeach	0.0329825979844
+part-time	0.0122883294697

@@ -1,5 +1,5 @@
-board	degree	nordegree
-Tech_Job	1	0.860836083608
-part-time	1	0.858946212953
-Stock	1	0.854257641921
-Gossiping	1	0.240695170717
+board	similarity
+Stock	0.0221201722035
+Tech_Job	0.0205440993155
+part-time	0.0110722103118
+Gossiping	0.00421493016222

@@ -1,4 +1,4 @@
-board	degree	nordegree
-AKB48	3	2.92705735661
-Mo-Musume	1	0.998723675814
-Gossiping	2	0.481390341433
+board	similarity
+Mo-Musume	0.104509503178
+AKB48	0.0684451734188
+Gossiping	0.00348520695699

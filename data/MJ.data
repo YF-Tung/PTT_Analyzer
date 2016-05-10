@@ -1,6 +1,6 @@
-board	degree	nordegree
-TaiShan	1	0.984896161108
-Bank_Service	1	0.957186544343
-car	1	0.840494092374
-TaichungBun	1	0.738555922605
-Gossiping	1	0.240695170717
+board	similarity
+TaiShan	0.0811547758999
+Bank_Service	0.0508190111238
+car	0.0190504606243
+TaichungBun	0.01214952898
+Gossiping	0.00483696572603

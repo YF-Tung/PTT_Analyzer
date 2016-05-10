@@ -1,9 +1,9 @@
-board	degree	nordegree
-HateP_Picket	1	0.977514053716
-hypermall	1	0.976903870162
-cookclub	1	0.95021250759
-Korea_Travel	1	0.948484848485
-PublicIssue	1	0.941070354781
-MuscleBeach	1	0.937125748503
-MenTalk	1	0.773221343874
-HatePolitics	1	0.721198156682
+board	similarity
+HateP_Picket	0.0812875110876
+hypermall	0.0396979673814
+PublicIssue	0.0394802636402
+Korea_Travel	0.0385851711437
+cookclub	0.0229444360653
+MuscleBeach	0.0191230314855
+MenTalk	0.0180287194114
+HatePolitics	0.0133670142131

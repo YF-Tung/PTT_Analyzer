@@ -1,4 +1,4 @@
-board	degree	nordegree
-AllTogether	1	0.725208526413
-Wanted	1	0.495253164557
-Gossiping	1	0.240695170717
+board	similarity
+AllTogether	0.00649707280415
+Wanted	0.00424798323885
+Gossiping	0.00340102904502

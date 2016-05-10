@@ -1,6 +1,6 @@
-board	degree	nordegree
-NewAge	1	0.979962429555
-DummyHistory	1	0.977514053716
-historia	1	0.942203491872
-barterbooks	1	0.885681946802
-forsale	1	0.360516010136
+board	similarity
+DummyHistory	0.193655266526
+NewAge	0.154285928043
+historia	0.104328507391
+barterbooks	0.0404712550968
+forsale	0.0115597756034

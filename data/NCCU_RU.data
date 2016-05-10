@@ -1,5 +1,5 @@
-board	degree	nordegree
-Suit_Style	1	0.993020304569
-MakeUp	1	0.943339361061
-GetMarry	1	0.925487876996
-Tainan	1	0.722196585141
+board	similarity
+Suit_Style	0.222296137252
+MakeUp	0.0590435577616
+GetMarry	0.0400904452182
+Tainan	0.0318790501815

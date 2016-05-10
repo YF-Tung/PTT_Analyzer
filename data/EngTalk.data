@@ -1,4 +1,4 @@
-board	degree	nordegree
-I-Lan	1	0.9393757503
-Ind-travel	1	0.904101675332
-Hsinchu	1	0.832004253057
+board	similarity
+Ind-travel	0.0687135908416
+I-Lan	0.0529240055437
+Hsinchu	0.0242154905883

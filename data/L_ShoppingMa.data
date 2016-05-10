@@ -1,5 +1,5 @@
-board	degree	nordegree
-L_LifeJob	1	0.995547073791
-ID_Multi	1	0.978736710444
-L_TalkandCha	1	0.965453423812
-Beauty	1	0.875279642058
+board	similarity
+L_LifeJob	0.301164193288
+ID_Multi	0.174913062015
+L_TalkandCha	0.157946789741
+Beauty	0.0407612329294

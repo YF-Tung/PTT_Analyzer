@@ -1,6 +1,6 @@
-board	degree	nordegree
-BoardGame	1	0.953105968331
-barterbooks	1	0.885681946802
-Drama-Ticket	1	0.821953781513
-Gamesale	1	0.789606458123
-forsale	1	0.360516010136
+board	similarity
+barterbooks	0.0193380212046
+BoardGame	0.019315383601
+Drama-Ticket	0.00869060876599
+Gamesale	0.00784139088248
+forsale	0.0048927248951

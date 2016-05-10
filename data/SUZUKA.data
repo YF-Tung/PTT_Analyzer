@@ -1,5 +1,5 @@
-board	degree	nordegree
-Yabuki	1	0.997450605481
-Ocean	1	0.996815286624
-HK_Comics	1	0.993650793651
-KingdomHuang	1	0.992390615092
+board	similarity
+Yabuki	1.0
+HK_Comics	0.547982162852
+Ocean	0.503705849747
+KingdomHuang	0.323254465288

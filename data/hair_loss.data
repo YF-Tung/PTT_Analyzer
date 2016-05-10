@@ -1,5 +1,5 @@
-board	degree	nordegree
-LivingGoods	1	0.98427672956
-MenTalk	1	0.773221343874
-HelpBuy	1	0.699910554562
-Wanted	1	0.495253164557
+board	similarity
+LivingGoods	0.0321578818657
+MenTalk	0.0144197308828
+HelpBuy	0.00466278922978
+Wanted	0.00344150916807

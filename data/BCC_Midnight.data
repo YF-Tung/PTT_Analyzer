@@ -1,4 +1,4 @@
-board	degree	nordegree
-marvel	3	2.80131264916
-CYCU_Talk	1	0.985516372796
-Gossiping	1	0.240695170717
+board	similarity
+CYCU_Talk	0.221381721161
+marvel	0.0768844122684
+Gossiping	0.0119298910398

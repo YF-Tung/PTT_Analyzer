@@ -1,8 +1,8 @@
-board	degree	nordegree
-Donate-Blood	1	0.990506329114
-GraduateCram	1	0.988629185092
-LicenseShop	1	0.982423101067
-Accounting	1	0.976903870162
-Examination	1	0.924394565859
-forsale	1	0.360516010136
-Gossiping	1	0.240695170717
+board	similarity
+Donate-Blood	0.0338594955258
+Accounting	0.0312303978639
+GraduateCram	0.0243035532057
+LicenseShop	0.0226145523616
+Examination	0.0144424151107
+forsale	0.00346326984814
+Gossiping	0.00225713507822

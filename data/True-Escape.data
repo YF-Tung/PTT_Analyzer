@@ -1,8 +1,8 @@
-board	degree	nordegree
-AllTogether	3	2.17562557924
-Taipei	2	1.82827102804
-mobile-game	1	0.978125
-cookclub	1	0.95021250759
-Baseball	1	0.56539017341
-WomenTalk	1	0.541897506925
-Wanted	1	0.495253164557
+board	similarity
+Taipei	0.0505410400639
+mobile-game	0.0281836090752
+cookclub	0.019416146398
+AllTogether	0.00943819519143
+Baseball	0.00627981760499
+WomenTalk	0.00475445177371
+Wanted	0.00294561718263

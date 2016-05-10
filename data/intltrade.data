@@ -1,5 +1,5 @@
-board	degree	nordegree
-car-pool	1	0.946191051995
-travel	1	0.849158979924
-BabyMother	1	0.834221748401
-forsale	1	0.360516010136
+board	similarity
+travel	0.0167659962351
+car-pool	0.01253015974
+BabyMother	0.00920022746218
+forsale	0.00407241926153

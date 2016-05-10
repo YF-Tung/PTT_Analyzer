@@ -1,4 +1,4 @@
-board	degree	nordegree
-MysteryStory	1	0.998086734694
-Detective	1	0.995547073791
-NTU	1	0.85989010989
+board	similarity
+MysteryStory	0.632800339726
+Detective	0.290857033292
+NTU	0.0460327908785

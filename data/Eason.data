@@ -1,7 +1,7 @@
-board	degree	nordegree
-Snacks	1	0.984896161108
-love-vegetal	1	0.975685785536
-ShuangHe	1	0.900460299194
-PttEarnMoney	1	0.85989010989
-Drama-Ticket	1	0.821953781513
-GambleGhost	1	0.821522309711
+board	similarity
+Snacks	0.121443295181
+love-vegetal	0.0830514473807
+GambleGhost	0.0600701264667
+PttEarnMoney	0.0414951445632
+ShuangHe	0.025056334293
+Drama-Ticket	0.0145484379683

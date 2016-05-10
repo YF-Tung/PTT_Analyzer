@@ -3,9 +3,11 @@ import sqlite3
 import operator
 import os
 import numpy
+import time
 from math import log
 
-__limit__ = 10000
+start_time = time.time()
+__limit__ = -1
 # 3000 for performance issue
 # -1 for no limit
 # up to about 100,000
@@ -74,29 +76,39 @@ for tpl in boardDict.values():
         tpl[1][i] /= nrm
 
 
-# Example: 'travel' to others
+if not os.path.exists('data'):
+    os.mkdir('data')
 cnt = 0
+omitCnt = 0
 total = len(boardDict)
 for brdBase in boardDict:
     cnt += 1
-    print(str(cnt) + '/' + str(total) + '\t' + brdBase + ":")
+    print(str(cnt) + '/' + str(total) + '\t' + brdBase)
 
     myDic = {} #board to cosine
     for brd in boardDict:
         if brd == brdBase: continue
 #        myDic[brd] = numpy.dot(boardDict[brd][1], boardDict[brdBase][1])
-        myDic[brd] = 0
         for i in boardDict[brd][1]:
             if i in boardDict[brdBase][1]:
-                myDic[brd] += boardDict[brd][1][i] * boardDict[brdBase][1][i]
+                myDic[brd] = myDic.get(brd, 0) + \
+                    boardDict[brd][1][i] * boardDict[brdBase][1][i]
+
+    if not myDic:
+        print('\tNo commen author, omitted.')
+        omitCnt += 1
+        continue
+    fh = open('data/' + brdBase + '.data', 'w')
+    fh.write('board\tsimilarity\n')
 
     myList = []
     for k,v in myDic.items():
         myList.append( (v,k) )
     myList.sort(reverse=True)
     for tpl in myList:
-        if not tpl[0] == 0:
-            print('\t', tpl[1], '\t', tpl[0])
+        fh.write(tpl[1] + '\t' + str(tpl[0]) + '\n')
 
-
-
+print('Execution success.', cnt, 'boards processed,', \
+    omitCnt, 'boards omitted')
+print('Elapsed time:', time.time() - start_time, 'seconds')
+# EOF

@@ -1,4 +1,4 @@
-board	degree	nordegree
-meditation	1	0.997450605481
-Taoism	1	0.98427672956
-Folklore	1	0.97507788162
+board	similarity
+meditation	0.668730241486
+Taoism	0.57614653214
+Folklore	0.228181499782

@@ -1,5 +1,5 @@
-board	degree	nordegree
-LoL	2	1.29499379396
-LoL_Picket	1	0.973864343497
-ID_Problem	1	0.973258706468
-L_TalkandCha	1	0.965453423812
+board	similarity
+L_TalkandCha	0.20029226808
+LoL_Picket	0.113560667108
+ID_Problem	0.0887340499837
+LoL	0.0401994259637

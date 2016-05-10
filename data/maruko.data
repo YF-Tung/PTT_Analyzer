@@ -1,4 +1,4 @@
-board	degree	nordegree
-Japan_Travel	1	0.798469387755
-Food	1	0.789606458123
-C_Chat	1	0.610612563402
+board	similarity
+Food	0.0420304513094
+C_Chat	0.027230924507
+Japan_Travel	0.0246437516265

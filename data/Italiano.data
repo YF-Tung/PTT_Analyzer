@@ -1,6 +1,6 @@
-board	degree	nordegree
-NTUcourse	1	0.995547073791
-Espannol	1	0.994282083863
-Francais	1	0.988629185092
-Language	1	0.980576441103
-gay	1	0.937687237867
+board	similarity
+Espannol	0.331979905947
+Francais	0.227487736224
+NTUcourse	0.192501642501
+Language	0.129599422419
+gay	0.0406947912267

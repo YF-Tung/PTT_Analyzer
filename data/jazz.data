@@ -1,4 +1,4 @@
-board	degree	nordegree
-guitar	2	1.94048357099
-keyboard	1	0.996180776575
-piano	1	0.994282083863
+board	similarity
+keyboard	0.365958693252
+guitar	0.124045755597
+piano	0.110611781802

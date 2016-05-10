@@ -1,4 +1,4 @@
-board	degree	nordegree
-Perfume	1	0.982423101067
-EuropeTravel	1	0.948484848485
-Perfume_Shop	1	0.924940898345
+board	similarity
+Perfume	0.0975744588033
+EuropeTravel	0.0583918356772
+Perfume_Shop	0.0489080775873

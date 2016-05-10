@@ -1,5 +1,5 @@
-board	degree	nordegree
-Jolin	1	0.988629185092
-popmusic	1	0.988005050505
-Lions	1	0.910413030832
-Baseball	1	0.56539017341
+board	similarity
+Jolin	0.157263429111
+popmusic	0.14774739143
+Lions	0.0527075163347
+Baseball	0.0157503617472

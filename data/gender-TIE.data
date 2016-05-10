@@ -1,4 +1,4 @@
-board	degree	nordegree
-TAS	1	0.995547073791
-Feminism	1	0.98427672956
-part-time	1	0.858946212953
+board	similarity
+Feminism	0.812371393648
+TAS	0.540218754813
+part-time	0.0313386598367

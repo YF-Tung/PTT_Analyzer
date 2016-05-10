@@ -1,5 +1,5 @@
-board	degree	nordegree
-Transfer	1	0.993020304569
-Finance	1	0.981806775408
-ForeignEX	1	0.979349186483
-Salary	1	0.862258953168
+board	similarity
+ForeignEX	0.0878676453332
+Transfer	0.0789222451958
+Finance	0.0474015429544
+Salary	0.0221528507932

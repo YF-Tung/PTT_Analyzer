@@ -1,7 +1,7 @@
-board	degree	nordegree
-Self-Healing	1	0.998086734694
-Memory	1	0.988005050505
-Dreamland	1	0.983040201005
-dreams-wish	1	0.973258706468
-happy	1	0.960122699387
-hairdo	1	0.958946078431
+board	similarity
+Self-Healing	0.197690895858
+Dreamland	0.111965974538
+Memory	0.102958635146
+dreams-wish	0.0883615194427
+happy	0.0754982164579
+hairdo	0.0348176185441

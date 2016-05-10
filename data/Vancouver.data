@@ -1,4 +1,4 @@
-board	degree	nordegree
-global_univ	1	0.996815286624
-Canada	1	0.991761723701
-studyabroad	1	0.97507788162
+board	similarity
+global_univ	0.261336672816
+Canada	0.11460867865
+studyabroad	0.0372720288073

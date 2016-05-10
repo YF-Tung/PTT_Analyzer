@@ -1,4 +1,4 @@
-board	degree	nordegree
-e-shopping	1	0.908299477655
-Monkeys	1	0.890722822994
-Baseball	1	0.56539017341
+board	similarity
+Monkeys	0.0464827094088
+e-shopping	0.024777372012
+Baseball	0.0137296051496

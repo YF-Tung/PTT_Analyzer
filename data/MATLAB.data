@@ -1,6 +1,6 @@
-board	degree	nordegree
-comm_and_RF	1	0.997450605481
-Chemistry	1	0.993020304569
-Electronics	1	0.988629185092
-Military	1	0.963669950739
-Gossiping	1	0.240695170717
+board	similarity
+comm_and_RF	0.12460808615
+Electronics	0.0640984409928
+Chemistry	0.0612329896919
+Military	0.0534523611474
+Gossiping	0.00385410110291

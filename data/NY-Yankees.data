@@ -1,6 +1,6 @@
-board	degree	nordegree
-FBaseball	2	1.96361355082
-LoL	2	1.29499379396
-LoL_Picket	1	0.973864343497
-Lifeismoney	1	0.906195715113
-Gossiping	2	0.481390341433
+board	similarity
+FBaseball	0.0562535206015
+LoL_Picket	0.0534901674903
+Lifeismoney	0.0302293123779
+LoL	0.00903832935404
+Gossiping	0.00388234069364

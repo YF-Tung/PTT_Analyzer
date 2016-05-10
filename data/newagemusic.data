@@ -1,5 +1,5 @@
-board	degree	nordegree
-Songs	1	0.985516372796
-Headphone	1	0.949060036386
-Android	1	0.936004784689
-forsale	1	0.360516010136
+board	similarity
+Songs	0.166553081377
+Headphone	0.0622091350528
+Android	0.0596918988522
+forsale	0.0122409809534

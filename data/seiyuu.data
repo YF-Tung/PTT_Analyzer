@@ -1,4 +1,4 @@
-board	degree	nordegree
-kodomo	1	0.996815286624
-AC_Music	1	0.993650793651
-C_Chat	1	0.610612563402
+board	similarity
+AC_Music	0.258083597013
+kodomo	0.251689840125
+C_Chat	0.0188222587507

@@ -1,4 +1,4 @@
-board	degree	nordegree
-PuzzleDragon	1	0.969040247678
-WOW	1	0.961302211302
-AC_In	1	0.930993456276
+board	similarity
+WOW	0.0558572977719
+AC_In	0.0437295633353
+PuzzleDragon	0.0349099893491

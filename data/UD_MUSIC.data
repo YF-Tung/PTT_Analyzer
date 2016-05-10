@@ -1,3 +1,3 @@
-board	degree	nordegree
-GetMarry	1	0.925487876996
-Japan_Travel	1	0.798469387755
+board	similarity
+GetMarry	0.0435174472523
+Japan_Travel	0.0359572695527

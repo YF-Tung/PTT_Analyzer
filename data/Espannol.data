@@ -1,7 +1,7 @@
-board	degree	nordegree
-Language	3	2.94172932331
-Francais	2	1.97725837018
-SummerCourse	1	0.999361430396
-Italiano	1	0.996815286624
-Deutsch	1	0.989254108723
-NewActivity	1	0.924394565859
+board	similarity
+Italiano	0.331979905947
+Francais	0.316429885107
+SummerCourse	0.288776044034
+Language	0.278964508344
+Deutsch	0.111929959652
+NewActivity	0.0858123805056

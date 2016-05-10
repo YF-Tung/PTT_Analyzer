@@ -1,4 +1,4 @@
-board	degree	nordegree
-DC_SALE	1	0.916813122437
-creditcard	1	0.909355026148
-Baseball	1	0.56539017341
+board	similarity
+creditcard	0.0652933392466
+DC_SALE	0.0425917447664
+Baseball	0.0327522836627

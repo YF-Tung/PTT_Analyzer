@@ -1,5 +1,5 @@
-board	degree	nordegree
-PhotoLink	1	0.998723675814
-China_travel	1	0.951367781155
-part-time	1	0.858946212953
-Kaohsiung	1	0.781718281718
+board	similarity
+PhotoLink	0.459566039984
+China_travel	0.0692312008706
+Kaohsiung	0.0195833633978
+part-time	0.0150705591764

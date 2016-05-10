@@ -1,6 +1,6 @@
-board	degree	nordegree
-Suckgame	1	0.995547073791
-TypeMoon	1	0.973258706468
-C_Chat	1	0.610612563402
-WomenTalk	1	0.541897506925
-Gossiping	1	0.240695170717
+board	similarity
+Suckgame	0.127631557845
+TypeMoon	0.0454834465725
+C_Chat	0.0108658551598
+WomenTalk	0.00877169786704
+Gossiping	0.00385410110291

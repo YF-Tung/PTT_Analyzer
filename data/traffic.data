@@ -1,4 +1,4 @@
-board	degree	nordegree
-PttLifeLaw	1	0.966646077826
-gay	1	0.937687237867
-ask	1	0.811301192328
+board	similarity
+PttLifeLaw	0.0568268838798
+gay	0.0288140983788
+ask	0.0229109330842

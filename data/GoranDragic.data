@@ -1,4 +1,4 @@
-board	degree	nordegree
-book	3	2.88036809816
-e-coupon	3	2.63025210084
-MiamiHeat	1	0.903058280439
+board	similarity
+MiamiHeat	0.136345110891
+book	0.103675189075
+e-coupon	0.04178942419

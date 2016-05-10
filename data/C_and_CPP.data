@@ -1,6 +1,6 @@
-board	degree	nordegree
-Translate-CS	1	0.998723675814
-Linux	1	0.993020304569
-Electronics	1	0.988629185092
-Notebook	1	0.979349186483
-Gossiping	1	0.240695170717
+board	similarity
+Translate-CS	0.183883781605
+Linux	0.0583473786557
+Notebook	0.0474736339055
+Electronics	0.0464072960434
+Gossiping	0.00305537088753

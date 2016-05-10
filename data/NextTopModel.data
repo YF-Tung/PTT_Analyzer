@@ -1,4 +1,4 @@
-board	degree	nordegree
-SuperTaste	1	0.994914176732
-Food	1	0.789606458123
-Gossiping	1	0.240695170717
+board	similarity
+SuperTaste	0.351765602631
+Food	0.0370859682449
+Gossiping	0.00754923910289

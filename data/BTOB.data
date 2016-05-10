@@ -1,4 +1,4 @@
-board	degree	nordegree
-SuperJunior	5	4.78886168911
-VIXX	2	1.94894146949
-KR_Entertain	1	0.960122699387
+board	similarity
+VIXX	0.0885553467206
+SuperJunior	0.0800775281648
+KR_Entertain	0.0692120455202

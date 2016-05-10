@@ -1,8 +1,8 @@
-board	degree	nordegree
-elderly	1	0.988629185092
-Pharmacy	1	0.988629185092
-Health_Life	1	0.985516372796
-Child_Psy	1	0.984896161108
-Psychiatry	1	0.978125
-Doctor-Info	1	0.975685785536
-prozac	1	0.956017104459
+board	similarity
+elderly	0.371374389081
+Child_Psy	0.310719204013
+Pharmacy	0.266180083009
+Health_Life	0.2029120141
+Psychiatry	0.193225891767
+Doctor-Info	0.114270864443
+prozac	0.0958924922982

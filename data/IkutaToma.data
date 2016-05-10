@@ -1,4 +1,4 @@
-board	degree	nordegree
-V6	1	0.996180776575
-BeautyMarket	1	0.805870236869
-HelpBuy	1	0.699910554562
+board	similarity
+V6	0.438980488647
+BeautyMarket	0.035124383357
+HelpBuy	0.0184524845645

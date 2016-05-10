@@ -1,5 +1,5 @@
-board	degree	nordegree
-car-pool	1	0.946191051995
-car	1	0.840494092374
-HardwareSale	1	0.790803436079
-forsale	1	0.360516010136
+board	similarity
+car-pool	0.0542935037061
+car	0.045294704776
+HardwareSale	0.0321175913237
+forsale	0.0176458971679

@@ -1,3 +1,3 @@
-board	degree	nordegree
-PokeMon	1	0.989879822897
-Plant	1	0.967841682127
+board	similarity
+PokeMon	0.101171210136
+Plant	0.0533767856041

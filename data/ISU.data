@@ -1,4 +1,4 @@
-board	degree	nordegree
-STU	1	0.997450605481
-KUAS	1	0.994914176732
-mobilesales	1	0.723532131299
+board	similarity
+STU	0.220845507363
+KUAS	0.169663597073
+mobilesales	0.0106360137312

@@ -1,4 +1,4 @@
-board	degree	nordegree
-BaseballXXXX	1	0.963669950739
-watch	1	0.954268292683
-Test	1	0.775520317146
+board	similarity
+BaseballXXXX	0.106182046514
+watch	0.0656359159694
+Test	0.0294915182253

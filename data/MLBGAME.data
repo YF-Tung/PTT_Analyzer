@@ -1,4 +1,4 @@
-board	degree	nordegree
-Militarylife	1	0.881690140845
-joke	1	0.786432160804
-sex	1	0.781328007988
+board	similarity
+Militarylife	0.0308245224643
+sex	0.0215828543123
+joke	0.0159015506185

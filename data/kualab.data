@@ -1,4 +1,4 @@
-board	degree	nordegree
-Life	3	2.95654911839
-8words	2	1.99236155315
-home-sale	1	0.882684715172
+board	similarity
+8words	0.122033697655
+Life	0.0553082397397
+home-sale	0.0245592413993

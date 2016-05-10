@@ -1,7 +1,7 @@
-board	degree	nordegree
-BabyMother	3	2.5026652452
-gardener	2	1.9873015873
-GetMarry	1	0.925487876996
-Taoyuan	1	0.845032397408
-BabyProducts	1	0.800511508951
-WomenTalk	1	0.541897506925
+board	similarity
+gardener	0.124941996202
+BabyMother	0.0239439701228
+Taoyuan	0.0133962042424
+GetMarry	0.00913656422299
+BabyProducts	0.00685327910944
+WomenTalk	0.00615006188919

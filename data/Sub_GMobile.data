@@ -1,4 +1,4 @@
-board	degree	nordegree
-GBF	1	0.996815286624
-ClashRoyale	1	0.969040247678
-ToS	1	0.960122699387
+board	similarity
+GBF	0.13447885266
+ClashRoyale	0.0609119710549
+ToS	0.0505640929707

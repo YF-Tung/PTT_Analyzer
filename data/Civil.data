@@ -1,6 +1,6 @@
-board	degree	nordegree
-Electronics	1	0.988629185092
-AfterPhD	1	0.988629185092
-Mechanical	1	0.985516372796
-LoL	1	0.64749689698
-Gossiping	1	0.240695170717
+board	similarity
+Electronics	0.0485630780279
+AfterPhD	0.0466658181355
+Mechanical	0.0404462209668
+LoL	0.00744352061897
+Gossiping	0.00319730360236

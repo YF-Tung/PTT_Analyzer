@@ -1,5 +1,5 @@
-board	degree	nordegree
-lostsleep	1	0.996180776575
-Lottery	1	0.986759142497
-TaiShan	1	0.984896161108
-prozac	1	0.956017104459
+board	similarity
+lostsleep	0.266292418396
+TaiShan	0.119409078882
+Lottery	0.0927832851535
+prozac	0.0644082590483

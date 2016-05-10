@@ -1,5 +1,5 @@
-board	degree	nordegree
-Preschooler	3	2.94912060302
-drawing	1	0.969040247678
-NewActivity	1	0.924394565859
-BabyMother	1	0.834221748401
+board	similarity
+Preschooler	0.352623800682
+NewActivity	0.0893620478468
+drawing	0.0821045366195
+BabyMother	0.0200702705203

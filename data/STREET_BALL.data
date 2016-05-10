@@ -1,8 +1,8 @@
-board	degree	nordegree
-basketball	1	0.998086734694
-Mix_Match	1	0.989879822897
-share	1	0.979349186483
-toberich	1	0.93824940048
-MobileComm	1	0.776674937965
-TaichungBun	1	0.738555922605
-Gossiping	2	0.481390341433
+board	similarity
+basketball	0.148208976298
+share	0.105570439635
+Mix_Match	0.0685842454494
+toberich	0.0305107207687
+MobileComm	0.0147328084231
+TaichungBun	0.0130620685498
+Gossiping	0.00816070336322

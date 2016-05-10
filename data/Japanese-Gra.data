@@ -1,7 +1,7 @@
-board	degree	nordegree
-Japanese-B94	3	2.97906091371
-Japanese-A87	2	1.98982835346
-Japanese-B95	1	0.996180776575
-Japanese-B93	1	0.996180776575
-Japanese-B90	1	0.996180776575
-Japanese-B89	1	0.996180776575
+board	similarity
+Japanese-B95	1.0
+Japanese-B93	1.0
+Japanese-B90	1.0
+Japanese-B89	1.0
+Japanese-A87	1.0
+Japanese-B94	0.633261486309

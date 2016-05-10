@@ -1,4 +1,4 @@
-board	degree	nordegree
-ask	1	0.811301192328
-give	1	0.785642570281
-forsale	2	0.721032020272
+board	similarity
+ask	0.0135404729802
+forsale	0.0114780949656
+give	0.0101275459267

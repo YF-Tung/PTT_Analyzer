@@ -1,5 +1,5 @@
-board	degree	nordegree
-ID_Multi	2	1.95747342089
-L_TalkandCha	2	1.93090684762
-Beauty	2	1.75055928412
-L_ShoppingMa	1	0.997450605481
+board	similarity
+L_ShoppingMa	0.301164193288
+ID_Multi	0.137550746564
+L_TalkandCha	0.124208555931
+Beauty	0.0320544272435

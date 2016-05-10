@@ -1,4 +1,4 @@
-board	degree	nordegree
-BoardGame	1	0.953105968331
-Salary	1	0.862258953168
-Gossiping	1	0.240695170717
+board	similarity
+BoardGame	0.040440102984
+Salary	0.0321562880068
+Gossiping	0.00667622447963

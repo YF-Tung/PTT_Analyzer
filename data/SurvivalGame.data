@@ -1,4 +1,4 @@
-board	degree	nordegree
-HardwareSale	1	0.790803436079
-Gamesale	1	0.789606458123
-mobilesales	1	0.723532131299
+board	similarity
+HardwareSale	0.00983276981702
+Gamesale	0.00766928698554
+mobilesales	0.00735611951458

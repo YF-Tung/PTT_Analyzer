@@ -1,5 +1,5 @@
-board	degree	nordegree
-Hate	3	1.74665178571
-HatePolitics	1	0.721198156682
-movie	1	0.676610462603
-WomenTalk	1	0.541897506925
+board	similarity
+Hate	0.0619641220472
+HatePolitics	0.0263310233673
+movie	0.0184174089623
+WomenTalk	0.0124943046401

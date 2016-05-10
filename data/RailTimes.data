@@ -1,7 +1,7 @@
-board	degree	nordegree
-Zastrology	6	5.81064356436
-BusTimes	4	3.93958464443
-Lions	2	1.82082606166
-JP_Entertain	1	0.989879822897
-Railway	1	0.870411568409
-Baseball	1	0.56539017341
+board	similarity
+BusTimes	0.128300734548
+JP_Entertain	0.0897136518211
+Zastrology	0.0655029396495
+Railway	0.0372775862996
+Lions	0.0315692911719
+Baseball	0.00943371630153

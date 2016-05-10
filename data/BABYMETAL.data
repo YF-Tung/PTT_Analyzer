@@ -1,5 +1,5 @@
-board	degree	nordegree
-Wrestle	1	0.992390615092
-StupidClown	1	0.922759433962
-joke	1	0.786432160804
-Gossiping	2	0.481390341433
+board	similarity
+Wrestle	0.106735959683
+StupidClown	0.0246988857773
+joke	0.0163799690804
+Gossiping	0.00973816218715

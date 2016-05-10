@@ -1,9 +1,9 @@
-board	degree	nordegree
-MenTalk	3	2.31966403162
-Tour-Manager	1	0.992390615092
-CareerPlan	1	0.978125
-Tour-Agency	1	0.962484624846
-creditcard	1	0.909355026148
-ask	1	0.811301192328
-AllTogether	1	0.725208526413
-HatePolitics	1	0.721198156682
+board	similarity
+Tour-Manager	0.0879746723759
+MenTalk	0.0696114525639
+CareerPlan	0.0376737212162
+Tour-Agency	0.0234189007728
+creditcard	0.0214954826338
+HatePolitics	0.0172039816876
+ask	0.0140812661868
+AllTogether	0.0084700535483

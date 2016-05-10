@@ -1,4 +1,4 @@
-board	degree	nordegree
-Hotel	1	0.948484848485
-travel	1	0.849158979924
-forsale	2	0.721032020272
+board	similarity
+Hotel	0.0503577869596
+travel	0.0281725158452
+forsale	0.0136860696573

@@ -1,3 +1,3 @@
-board	degree	nordegree
-NTUEE103	1	0.998723675814
-HomeTeach	1	0.973258706468
+board	similarity
+NTUEE103	1.0
+HomeTeach	0.0880183964802

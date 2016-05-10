@@ -1,5 +1,5 @@
-board	degree	nordegree
-ChineseMed	1	0.991761723701
-homemaker	1	0.991133628879
-Examination	1	0.924394565859
-Gossiping	1	0.240695170717
+board	similarity
+homemaker	0.274930913697
+ChineseMed	0.245211735455
+Examination	0.0735863455849
+Gossiping	0.0115004533955

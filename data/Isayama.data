@@ -1,8 +1,8 @@
-board	degree	nordegree
-C_Chat	2	1.2212251268
-GirlComics	1	0.997450605481
-ChineseMed	1	0.991761723701
-marvel	1	0.933770883055
-StupidClown	1	0.922759433962
-Boy-Girl	1	0.85332606325
-Gossiping	2	0.481390341433
+board	similarity
+GirlComics	0.121009126161
+ChineseMed	0.10536316196
+marvel	0.0318466920544
+C_Chat	0.0291864333631
+StupidClown	0.0262567262591
+Boy-Girl	0.0190860393287
+Gossiping	0.011049956794

@@ -1,5 +1,5 @@
-board	degree	nordegree
-Japandrama	1	0.970241785493
-Nantou	1	0.954850518609
-Kaohsiung	1	0.781718281718
-TaichungBun	1	0.738555922605
+board	similarity
+Nantou	0.132559542538
+Japandrama	0.122973212323
+Kaohsiung	0.0392569741499
+TaichungBun	0.0326110933211

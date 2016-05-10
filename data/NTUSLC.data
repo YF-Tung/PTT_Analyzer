@@ -1,4 +1,4 @@
-board	degree	nordegree
-MIN-Twins	2	1.99236155315
-MLB	2	1.81765389082
-Baseball	2	1.13078034682
+board	similarity
+MIN-Twins	0.632800339726
+MLB	0.0818877851236
+Baseball	0.0207256562285

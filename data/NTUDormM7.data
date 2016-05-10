@@ -1,4 +1,4 @@
-board	degree	nordegree
-NTU	1	0.85989010989
-WomenTalk	1	0.541897506925
-Gossiping	1	0.240695170717
+board	similarity
+NTU	0.0727445735862
+WomenTalk	0.0247967636877
+Gossiping	0.0119298910398

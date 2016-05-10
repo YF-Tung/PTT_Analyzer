@@ -1,4 +1,4 @@
-board	degree	nordegree
-Finance	1	0.981806775408
-Soft_Job	1	0.969640644362
-Gossiping	2	0.481390341433
+board	similarity
+Finance	0.0525563378476
+Soft_Job	0.0489895929157
+Gossiping	0.0115138673591

@@ -1,6 +1,6 @@
-board	degree	nordegree
-bicycle	2	1.90505173463
-Hokuto	1	0.998723675814
-AndroidDev	1	0.993020304569
-Nantou	1	0.954850518609
-Tech_Job	1	0.860836083608
+board	similarity
+Hokuto	0.298489716485
+AndroidDev	0.0975406527549
+Nantou	0.048487173489
+bicycle	0.0273060129652
+Tech_Job	0.0205034789436

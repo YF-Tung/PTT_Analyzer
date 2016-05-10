@@ -1,5 +1,5 @@
-board	degree	nordegree
-PostRock	1	0.998086734694
-JapaneseRock	1	0.998086734694
-NTU	1	0.85989010989
-Gossiping	1	0.240695170717
+board	similarity
+JapaneseRock	0.668730241486
+PostRock	0.33459303251
+NTU	0.0486464962611
+Gossiping	0.00986173756871

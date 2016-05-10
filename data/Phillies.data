@@ -1,5 +1,5 @@
-board	degree	nordegree
-Diamondbacks	2	1.99109414758
-MLB	2	1.81765389082
-Baseball	2	1.13078034682
-FBaseball	1	0.981806775408
+board	similarity
+Diamondbacks	0.486655932993
+FBaseball	0.0810948077207
+MLB	0.060708978945
+Baseball	0.0153653371586

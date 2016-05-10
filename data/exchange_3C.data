@@ -1,4 +1,4 @@
-board	degree	nordegree
-HardwareSale	4	3.16321374432
-equal_change	1	0.883681535855
-HelpBuy	1	0.699910554562
+board	similarity
+HardwareSale	0.049313883208
+equal_change	0.0271328803891
+HelpBuy	0.00868148350508

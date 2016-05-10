@@ -1,5 +1,5 @@
-board	degree	nordegree
-Chi-Gong	1	0.998086734694
-flying	1	0.996815286624
-Taoism	1	0.98427672956
-Folklore	1	0.97507788162
+board	similarity
+Chi-Gong	0.668730241486
+Taoism	0.38528660957
+flying	0.223603938358
+Folklore	0.152591869452

@@ -1,4 +1,4 @@
-board	degree	nordegree
-ChangHua	1	0.91788856305
-Palmar_Drama	1	0.891737891738
-Gossiping	1	0.240695170717
+board	similarity
+Palmar_Drama	0.0844982073183
+ChangHua	0.0720123943249
+Gossiping	0.0119298910398

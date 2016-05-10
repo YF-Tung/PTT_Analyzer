@@ -1,4 +1,4 @@
-board	degree	nordegree
-PC_Shopping	1	0.914135514019
-MenTalk	1	0.773221343874
-WomenTalk	1	0.541897506925
+board	similarity
+MenTalk	0.0146412954899
+PC_Shopping	0.0131793226117
+WomenTalk	0.0051510218031

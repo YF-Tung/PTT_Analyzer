@@ -1,4 +1,4 @@
-board	degree	nordegree
-pevolleyball	1	0.998086734694
-NKUHT	1	0.998086734694
-DailyArticle	1	0.998086734694
+board	similarity
+pevolleyball	1.0
+NKUHT	1.0
+DailyArticle	1.0

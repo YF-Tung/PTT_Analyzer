@@ -1,4 +1,4 @@
-board	degree	nordegree
-PttEarnMoney	1	0.85989010989
-Test	1	0.775520317146
-LoL	1	0.64749689698
+board	similarity
+PttEarnMoney	0.058682996214
+Test	0.0294915182253
+LoL	0.0175750957396

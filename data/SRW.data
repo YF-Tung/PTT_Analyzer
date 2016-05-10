@@ -1,4 +1,4 @@
-board	degree	nordegree
-PlayStation	1	0.872838817624
-TaichungBun	1	0.738555922605
-forsale	1	0.360516010136
+board	similarity
+PlayStation	0.0578509096709
+TaichungBun	0.0338288219284
+forsale	0.0183048114082

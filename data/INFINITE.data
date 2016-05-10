@@ -1,5 +1,5 @@
-board	degree	nordegree
-SHINee	1	0.994282083863
-BB-Love	1	0.981806775408
-KoreanPop	1	0.93544530783
-Drama-Ticket	1	0.821953781513
+board	similarity
+SHINee	0.15740154036
+KoreanPop	0.106244513779
+BB-Love	0.0559084295228
+Drama-Ticket	0.0168271949728

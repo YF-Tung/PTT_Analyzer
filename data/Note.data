@@ -1,6 +1,6 @@
-board	degree	nordegree
-PttBug	1	0.998086734694
-Instant_Mess	1	0.988629185092
-Ptt-Charity	1	0.988005050505
-ID_Multi	1	0.978736710444
-Android	1	0.936004784689
+board	similarity
+PttBug	0.536652579533
+ID_Multi	0.194500922845
+Ptt-Charity	0.16711719026
+Instant_Mess	0.0887809630466
+Android	0.0479024418352
