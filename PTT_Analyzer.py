@@ -3,6 +3,12 @@ import sqlite3
 import operator
 import os
 import numpy
+from math import log
+
+__limit__ = 10000
+# 3000 for performance issue
+# -1 for no limit
+# up to about 100,000
 
 con = sqlite3.connect('PTT_Parser.db')
 c = con.cursor()
@@ -19,14 +25,15 @@ boardDict = {}
 
 authorSet = set()
 
-for row in c.execute('SELECT * FROM BAP LIMIT 1000'):
+selectSql = 'SELECT * FROM BAP'
+if __limit__ > 0: selectSql += " LIMIT " + str(__limit__)
+for row in c.execute(selectSql):
     board = row[1]
     author = row[2]
-    tpl = boardDict.setdefault(board, [{}, [], 0])
-    dic = tpl[0]
-    dic[author] = dic.get(author, 0) + 1
+    lst = boardDict.setdefault(board, [{}, [], 0])
+    lst[0][author] = lst[0].get(author, 0) + 1
     authorSet.add(author)
-    tpl[2] += 1
+    lst[2] += 1
 
 authorList = list(authorSet)
 authorNum = len(authorList)
@@ -47,7 +54,7 @@ for aut in authorList:
     for tpl in boardDict.values():
         if aut in tpl[0]: #author wrote some in the board
             cnt += 1
-    IDF.append( boardNumF / cnt )
+    IDF.append( log(boardNumF / cnt) )
 
 #TF -> TF*IDF
 for tpl in boardDict.values():
@@ -57,24 +64,28 @@ for tpl in boardDict.values():
         result[i] *= IDF[i]
     nrm = numpy.linalg.norm(result)
     result = [ x / nrm for x in result ]
+    tpl[1] = result
 
 
 # Example: 'travel' to others
-print('travel' in boardDict)
+cnt = 0
+total = len(boardDict)
+for brdBase in boardDict:
+    cnt += 1
+    print(str(cnt) + '/' + str(total) + '\t' + brdBase + ":")
 
-myDic = {} #board to cosine
-for brd in boardDict:
-    if brd == 'travel': continue
-    myDic[brd] = numpy.dot(boardDict[brd][1], boardDict['travel'][1])
-print(myDic)
+    myDic = {} #board to cosine
+    for brd in boardDict:
+        if brd == brdBase: continue
+        myDic[brd] = numpy.dot(boardDict[brd][1], boardDict[brdBase][1])
 
-myList = []
-for k,v in myDic.items():
-    myList.append( (v,k) )
-myList.sort(reverse=True)
-for tpl in myList:
-    if not tpl[0] == 0:
-        print(tpl[1], '\t', tpl[0])
+    myList = []
+    for k,v in myDic.items():
+        myList.append( (v,k) )
+    myList.sort(reverse=True)
+    for tpl in myList:
+        if not tpl[0] == 0:
+            print('\t', tpl[1], '\t', tpl[0])
 
 
 
