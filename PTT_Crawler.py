@@ -24,7 +24,8 @@ def main():
     target = u'/bbs/ALLPOST/index' # byte string
     for line in lines:
         #print(line)
-        line = unicode(line) # unicode string
+        if sys.version_info < (3, 0):
+            line = unicode(line) # unicode string
         if line.find(target) > -1:
             lpos = line.find('index') + 5
             rpos = line.find('.html')
