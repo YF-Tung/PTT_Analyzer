@@ -67,13 +67,20 @@ def main():
     # reset MAX_PAGE to 3 (to avoid overuse)
     #MAX_PAGE = 3
 
-    for i in range(START_PAGE, MAX_PAGE):
-        print('Getting page', i, 'out of', MAX_PAGE, '...')
-        sys.stdout.write('\r')
-        sys.stdout.flush()
-        txt = requests.get('https://www.ptt.cc/bbs/ALLPOST/index' + str(i) + '.html').text
-        
-        process_page_text(txt, con, c)
+    urls = ['https://www.ptt.cc/bbs/ALLPOST/index' + str(i) + '.html' for i in range(START_PAGE, MAX_PAGE)]
+    req_list = (grequests.get(u) for u in urls)
+    res_list = grequests.map(req_list, size = 10)
+    for res in res_list:
+        if res != None:
+            process_page_text(res.text, con, c)
+
+    #for i in range(START_PAGE, MAX_PAGE):
+    #    print('Getting page', i, 'out of', MAX_PAGE, '...')
+    #    sys.stdout.write('\r')
+    #    sys.stdout.flush()
+    #    txt = requests.get('https://www.ptt.cc/bbs/ALLPOST/index' + str(i) + '.html').text
+    #    
+    #    process_page_text(txt, con, c)
 
 #for k in freqDict:
 #        print(k,'-->', freqDict[k])
