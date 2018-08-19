@@ -2,8 +2,38 @@
 # -*- coding: utf-8 -*-
 import sys
 import sqlite3
-import requests
 import time
+import requests
+import grequests
+
+
+def process_page_text(txt, con, c):
+    board = "_default_"
+    author = "_default_"
+
+    lines = txt.split('\n')
+    for line in lines:
+        line = line.strip()
+        #print(line)
+        if line.startswith('<a href'): #update board
+            lpos = line.rfind('(') + 1
+            rpos = line.rfind(')')
+            board = line[lpos:rpos]
+            #print ('board:', board)
+        if line.startswith('<div class="author"'): #update author, then add count to freqDict
+            lpos = line.find('>') + 1
+            rpos = line.rfind('<')
+            author = line[lpos:rpos]
+#                    freqDict[(board, author)] = freqDict.get((board, author), 0) + 1
+            sql_cmd = 'INSERT INTO BoardAuthorPair (board, author) VALUES ("{}", "{}")'.format(board, author)
+            print(sql_cmd)
+            c.execute(sql_cmd)
+            #print('author:', author)
+            #print('Find a pair: (board =', board, ', author = ', author)
+
+    #txtArr.append(txt)
+    con.commit()
+    time.sleep(1)
 
 def main():
     con = sqlite3.connect('PTT_Parser.db')
@@ -43,35 +73,8 @@ def main():
         sys.stdout.flush()
         txt = requests.get('https://www.ptt.cc/bbs/ALLPOST/index' + str(i) + '.html').text
         
-        
-        board = "_default_"
-        author = "_default_"
-        
-        lines = txt.split('\n')
-        for line in lines:
-            line = line.strip()
-            #print(line)
-            if line.startswith('<a href'): #update board
-                lpos = line.rfind('(') + 1
-                rpos = line.rfind(')')
-                board = line[lpos:rpos]
-                #print ('board:', board)
-            if line.startswith('<div class="author"'): #update author, then add count to freqDict
-                lpos = line.find('>') + 1
-                rpos = line.rfind('<')
-                author = line[lpos:rpos]
-#                    freqDict[(board, author)] = freqDict.get((board, author), 0) + 1
-                sql_cmd = 'INSERT INTO BoardAuthorPair (board, author) VALUES ("{}", "{}")'.format(board, author)
-                print(sql_cmd)
-                c.execute(sql_cmd)
-                #print('author:', author)
-                #print('Find a pair: (board =', board, ', author = ', author)
-    
-        #txtArr.append(txt)
-        con.commit()
-        time.sleep(1)
-            
-            
+        process_page_text(txt, con, c)
+
 #for k in freqDict:
 #        print(k,'-->', freqDict[k])
 #
